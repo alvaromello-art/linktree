@@ -47,9 +47,9 @@ body {
 }
 
 .name{
-  background: rgba(224,224,224, 0.80);
+  background: rgba(000,000,000, 0.80);
   border-radius: 16px;
-  color: black;
+  color: white;
   text-align: center;
   padding: 5px;
   z-index: 99;
@@ -75,7 +75,7 @@ body {
   justify-content: space-around;
   align-items: center;
 
-  background: rgba(224, 224, 224, 0.35);
+  background: rgba(224, 224, 224, 0.90);
   border-radius: 50px;
 
   position: absolute;
