@@ -75,7 +75,7 @@ body {
   justify-content: space-around;
   align-items: center;
 
-  background: rgba(224, 224, 224, 0.90);
+  background: rgba(224,224,224, 0.80);
   border-radius: 50px;
 
   position: absolute;
@@ -85,8 +85,8 @@ body {
 
 .social-media-container a {
   text-decoration: none;
-  color: black;
-  background: #fff;
+  color: #fff;
+  background: #000;
   border-radius: 50%;
   font-size: 30px;
   width: 50px;
@@ -118,6 +118,7 @@ body {
 
 .main-content p{
   text-align: center;
+  font-size: 20px;
 }
 
 .image-container {
@@ -144,7 +145,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(000, 000, 000, 0.35);
+  background: rgba(000, 000, 000, 0.80);
   border: 1px solid black;
   border-radius: 16px;
   text-decoration: none;
